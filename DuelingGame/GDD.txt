@@ -1,0 +1,19 @@
+
+Duel have 3 actions 
+    Attack,    Parry,    Defend
+
+2 Character palyes against each other:
+Characterers have Health and Stamina
+Here are the outcomes of the actions:
+
+Damge on Health:
+    If Characer01 Attack & Characer02 Defence Characer02 will take 1 Damage 
+    If Characer01 Attack & Characer02 Parry Characer01 will take 2 Damage 
+    
+    The rest of the actions wont have any damage on each caharter
+Stamina:
+    Each Attack will Cost the Characer 1 Stamina
+    Each Parry will Cost the Characer 2 Stamina
+    Defend will not Cost any Stamina but +1 Stamina
+
+If Characer does not have any Stamina they can not do the Actions that need stamina 
