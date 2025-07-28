@@ -1,2 +1,7 @@
-﻿  GameLoop.cpp
-  DuelingGame.vcxproj -> C:\Users\moham\source\repos\VertexGDP\x64\Debug\DuelingGame.exe
+﻿  DuelingGame.cpp
+  GameLoop.cpp
+  Generating Code...
+x64\Debug\Enemy.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\Player.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DuelingGame.vcxproj -> C:\Users\moham\source\repos\VertexGDP_DuelingGame\x64\Debug\DuelingGame.exe
